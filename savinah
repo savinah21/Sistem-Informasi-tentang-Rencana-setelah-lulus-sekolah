@@ -1,0 +1,3 @@
+membuat sistem informasi tentang rencana setelah lulus sekolah dengan menambahkan tombol di setiap informasi tentang rencana setelah lulus sekolah. di setiap tombol di tandai dengan warna yang berbeda, buatkan tombol sebanyak 2 di warnai dengan warna biru dan merah.
+tombol pertama diwarnai biru di beri nama dengan "Kuliah". jika tombol itu diklik maka munculah informasi tentang rencana kuliah setelah lulus sekolah.
+tombol kedua diwarnai merah di beri nama dengan "Abdi Negara". jika tombol itu diklik maka munculah informasi tentang rencana daftar menjadi abdi negara setelah lulus sekolah.
